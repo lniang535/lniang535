@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, my name is Lamine Niang 👋
+
+🧑🏿‍🎓 Sophomore studying Computer Science as well as Film and Media Studies at Johns Hopkins University<br/>
+🖥️ Currently interested in user-interface design and app development<br/>
+👾 Recent projects include a manga review app as well as various school assignments<br/>
+
+[![Lamine's GitHub stats](https://github-readme-stats.vercel.app/api?username=lniang535&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **lniang535/lniang535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
